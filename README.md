@@ -29,10 +29,7 @@ DELETE /api/products/:id: Delete a product by ID.
 DELETE /api/tags/:id: Delete a tag by ID.
 
 ## Resources
-YouTube Tutorial 1
-YouTube Tutorial 2
-YouTube Tutorial 3
-Preply Tutor
+https://www.youtube.com/watch?v=hzua5AcmhMo, https://www.youtube.com/watch?v=j7iSpWTTly4&t=3006s, https://www.youtube.com/watch?v=1aXZQcG2Y6I&t=1683s, https://www.youtube.com/watch?v=hzua5AcmhMo, https://www.youtube.com/watch?v=j7iSpWTTly4&t=3006s, https://www.youtube.com/watch?v=1aXZQcG2Y6I&t=1683s, Preply tutor
 
 ## Acknowledgments
 Special thanks to the creators of the tutorial videos and the Preply tutor for their valuable insights and guidance.
